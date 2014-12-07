@@ -1,6 +1,110 @@
-﻿Solució – your PUBLIC KEY HERE
+﻿Solució 
 
 Respostes
 
-1.- 
-kjhsdjksanb
+1. Descriu el procés d'emprenedoria (enumera els passos)
+
+El esperit empresarial es la innovació amb el propòsit de generar clients i amb la finalitat de solucionar un problema, mitjançant la creació de serveis públics, per l'adaptació als clients i mitjançant l'entrega del que representa el valor al client, es defineix també com un procés en que la manera establerta de fer les coses es destrueix per a la creació de noves i millorades maneres de fer les coses, el procés potencia els productes nous, mètodes de producció nous, mercats i recursos nous.  
+
+És pot dividir principalment en quatre parts:
+
+1)Un cop es coneix un mateix (self-discovery) pot iniciar el procés d’Identificar oportunitats, generar i avaluar idees amb tècniques de creativitat.
+
+2)Planificació, recerca i identificació dels recursos necessaris per a convertir la idea en una realitat viable, i es desenvolupa el pla de negoci.
+
+3)Obtenció de recursos, financers o del tipus que siguin per a poder desenvolupar amb èxit la proposta de negoci per a fer-ho es poden realitzar test i prototipus per avaluar-ne la idoneïtat. 
+
+4)Posar en marxa l’empresa, es a dir, la gestió de l’empresa.
+
+
+2. Quan parlem d'innovació relacionada amb algun producte/servei, a que ens estem referint exactament, i perquè en diem innovació ?
+
+Una de les definicions que es donen per innovació és la següent: "el conjunt d'activitats, inscrites en un determinat període de temps i lloc, que condueixen a la introducció amb èxit en el mercat, per primera vegada, d'una idea en forma de nous o millors productes, serveis o tècniques de gestió y organització"
+Invenció i innovació no son el mateix. Invenció és la creació d’una nova eina o tècnica o procés que té característiques noves. La innovació s’ajusta a la creació i extracció de valor, i a l'execució operacional. Es a dir, un invent no és una innovació fins que algú la du a terme exitosament i en treu benefici econòmic.
+El procés d’innovació implica l’exploració i l’explotació d’oportunitats per un nou o millorat producte/servei/procés basat en una millora en la pràctica tècnica (el know-how) o en un canvi en la demanda del mercat, o una combinació d’ambdues.
+
+
+3. Si volem protegir d'alguna manera el nostre negoci (i que addicionalment posi barreres a d'altres competidors) què recomanes?
+
+S'ha de decidir com es vol actuar al mercat, és a dir, amb quina forma jurídica, en funció del tipus d’activitat i negoci que vulgui dur a terme.
+Cal que l’emprenedor defineixi com vol protegir els seus actius. Si l’emprenedor té una idea molt bona i vol posar-la en marxa, cal que es rodegi d’un bon equip per a dur-la a terme però també que firmi amb ells els corresponents contractes de confidencialitat (prèviament) i cessió de drets sobre el projecte; tot perquè la idea quedi al seu nom o de qui s’hagi acordat.
+Si tenim un nom per al nostre projecte, el més convenient és registrar-lo davant l’Oficina de Patents i Marques; així com protegir la resta en la mesura del possible, via drets d’autor; patents o similar. 
+Si es disposa d’una plataforma o pàgina web; alguna aplicació mòbil o algun tipus d’activitat on-line, interessen certes normatives que afecten, com la protecció de dades, el comerç electrònic, normativa de cookies i d’altres que hi estan vinculades. 
+
+
+4. Quina utilitat te l'anàlisi PEST i que vol dir?
+
+És evident que el que passa a l’entorn nostre és important. Ho és, perquè pot afectar d’una manera directa l’evolució o el desenvolupament d’una proposta de negoci d’èxit. Qualsevol canvi pot tenir una incidència a l’empresa sigui aquesta una nova empresa (start-up) o una ja constituïda. El pest serveix per avaluar un conjunt de canvis.
+El terme pest es refereix a les pressions en els següents àmbits:
+Pressions Polítiques: actitud del Govern respecte polítiques que afecten l’empresa.
+Pressions Econòmiques: falta de crèdit, recessió, canvi $/€, poder adquisitiu.
+Pressions Socials: qualitat de vida, estructura social, nivell d’ocupació, cultura.
+Pressions Tecnològiques: comunicacions, nou dispositiu o tecnologia.
+
+
+5. Pots enumerar tres tècniques de creativitat i descriure'n breument una d'elles.
+
+1) BrainStorming --> La tècnica de brainstorming o pluja d’idees s’utilitza per la generació i producció d’idees. És una de les tècniques més utilitzades i més conegudes. La base del qual és la d’ajornar qualsevol judici (prohibit jutjar) i la de cercar el major número d’idees independentment de la seva viabilitat. 
+
+2) SCAMPER --> És una de les tècniques utilitzades per a generar idees.
+
+3) Pensament Divergent/Convergent --> Aproximació habitual de qualsevol de nosaltres davant d’un problema.
+
+
+6. Que es pretén descriure en un Model de Negoci?
+
+Un model de negoci (Business Model) és una descripció de com la organització (empresa, projecte) te la intenció de crear valor en el mercat. Inclou la combinació única de producte, servei, imatge i distribució que l’empresa porta endavant. Però també inclou altres aspectes que poden lligat amb l’estructura organitzativa, la infraestructura operacional etc.
+
+6.1. Quins són els nou blocs del model de negoci canvas? (enumerar per ordre d'importància)
+
+Bloc 1: Proposició de Valor.
+Bloc 2: Segmentació de Clients.
+Bloc 3: Canals.
+Bloc 4: Relació amb els Clients.
+Bloc 5: Font d’ingressos.
+Bloc 6: Recursos Clau.
+Bloc 7: Activitats Clau.
+Bloc 8: Socis/Associació Clau.
+Bloc 9: Estructura de Costos
+
+
+Hi ha algun/s bloc/s que consideris poc rellevants (en el model canvas) i que podríem eliminar? (justifica breument la resposta)
+
+Tots els blocs els considero rellevants, perquè si algun d'ells falla el projecte no serà suficientment eficient o no funcionar.
+
+Quins conceptes importants s'han descrit que tenen a veure amb el blocs: Proposició de Valor i Segmentació de Clients
+
+Es important començar a treballar sobre el segment del mercat al que ens dirigirem. No es el mateix tenir com a mercat potencial a un segment d'edat de 18-35 anys amb un nivell adquisitiu mig-alt que a un segment de mercat de més de 60 anys amb igual nivell adquisitiu. Tot i que el fonament del producte o servei que s'ofereixi sigui el mateix a la proposició de valor en conjunt, es a dir, el producte o servei més tots aquells serveix associats que s'ofereix als clients potencials, haurà de ser diferent.
+Per tant, abans de seguir endavant amb el desenvolupament o prototipat de qualsevol idea hauríem de fer un check de negoci, tan simple com analitzar des del punt de vista del client potencial què es el que rebem de la mateixa, i conseqüentment exposant què es el que argumentaríem a favor de la mateixa que fes al client decantar-se pel producte/servei i no per el d'algú altre. D'aquest anàlisi poden sorgir idees noves amb les que enriquir l'oferta tecnològica.
+
+
+7. Pots explicar a que fa referència el tema Customer Research i quina relació creus que pot tenir amb el model de negoci
+
+Fa referència a la part de la investigació de mercat en el que les preferències, motivacions i el comportament de compra del client objectiu son identificats a través de l'observació directe, les enquestes per correu, telèfon o entrevistes cara a cara, i de fonts públiques (per exemple, dades demogràfiques).
+
+El model de negoci va destinat al customer research per tant està estrictament relacionat, ja que sense clients no hi ha negoci.
+
+
+8. Descriu el marqueting mix des de la perspectiva relacional (del client)
+Hint: 4 c's
+
+El conjunt d’eines a l’abast d’una organització per aconseguir els objectius de màrqueting en el mercat triat. Correspon a una sèrie de variables que es defineixen i es controlen des de l’àrea de màrqueting: producte, preu, distribució i promoció. 
+En ocasions podem trobar aquest concepte de Màrqueting mix com 4 p’s, aquesta aproximació més transaccional s’acostuma en l’actualitat substituir per les anomenades 4 c’s. Passem de les 4 p’s: product, price, place and promotion a les 4 c’s: Consumer, Cost, Convenience and Communication.
+
+
+9. Perquè és important estudiar a la competència? L'afirmació no hi ha competència la podem interpretar com a positiva o com a negativa? (Justificar la resposta)
+
+Si coneixes els punts forts i dèbils de la teva competència, si li treus el màxim profit a les teves fortaleses sense descuidar les debilitats, si comprens a qui et dirigiràs i coneixes quines son les causes que poden afectar el bon rendiment del projecte. Tens moltes probabilitats de que tot sigui un èxit.
+Llavors, quan parlem d'estudiar la competència, no parlem de comparar simplement els preus i serveis, es parla de fer un anàlisi, que implica recol•lectar informació sobre qui son els principals competidors a nivell nacional i internacional, el que fan, com ho fan, en quins canals, on es troba, quines son les estratègies de comunicació, les debilitats i fortaleses, a qui es dirigeix, inclús com podem captar el públic que tenen altres empreses i atraure'l cap a nosaltres. Un cop tinguem clara tota aquesta informació i descobrim en què ens podem diferenciar dels altres, prendrem les decisions més adequades en funció de les accions que volem realitzar.
+
+L'afirmació no hi ha competència la interpreto com a negativa, ja que si no tens competència significa que el teu negoci no atrau i per tant, no resulta atractiu per als altres.
+
+
+10.  Si la nostre start-up te relació amb el desenvolupament d'aplicacions mòbils, té sentit calcular el punt d'equilibri?
+
+No, perquè els costos del desenvolupament d'aplicacions mòbils es basen en el que costa fer l'aplicació, que si ho fas pel teu compte, no s'invertirien diners, per tant no es tracta d'un negoci que impliqui un cost continu.
+
+
+
+
+
